@@ -17,14 +17,12 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: blocks
-    type: blocks
-    label: blocks
-    template_types: []
+  - name: adfasf
+    type: text
     config:
-      min: '3'
-      max: '3'
-    description: Footer blocks
+      required: false
+    label: adfasf
+    description: asffa
   label: Footer
   description: Footer
 pages:
