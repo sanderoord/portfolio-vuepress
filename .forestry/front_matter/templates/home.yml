@@ -13,5 +13,19 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: footer
+  type: field_group
+  config: {}
+  fields:
+  - name: blocks
+    type: blocks
+    label: blocks
+    template_types: []
+    config:
+      min: '3'
+      max: '3'
+    description: Footer blocks
+  label: Footer
+  description: Footer
 pages:
 - portfolio/index.md
