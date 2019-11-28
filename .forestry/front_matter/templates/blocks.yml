@@ -8,5 +8,5 @@ fields:
   template_types:
   - blocks
   config:
-    min: 
-    max: 
+    min: '3'
+    max: '3'
