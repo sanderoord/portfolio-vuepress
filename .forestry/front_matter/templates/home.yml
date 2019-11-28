@@ -23,6 +23,7 @@ fields:
       required: false
     label: adfasf
     description: asffa
+    default: sasfasdfsa
   label: Footer
   description: Footer
 pages:
